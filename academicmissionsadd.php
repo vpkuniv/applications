@@ -14,6 +14,9 @@ ob_start(); // Turn on output buffering
 // Page class
 //
 
+
+// This is a comment
+
 $academicmissions_add = NULL; // Initialize page object first
 
 class cacademicmissions_add extends cacademicmissions {
