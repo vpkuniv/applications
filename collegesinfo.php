@@ -3,6 +3,11 @@
 // Global variable for table object
 $colleges = NULL;
 
+
+// has to be implemented later
+
+$name = "yousef";
+
 //
 // Table class for colleges
 //
