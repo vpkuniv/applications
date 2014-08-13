@@ -9,6 +9,9 @@ ob_start(); // Turn on output buffering
 <?php include_once "userfn10.php" ?>
 <?php
 
+
+// implemenent a function
+
 //
 // Page class
 //
